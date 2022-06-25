@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Spinner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string-array name="province_array">
+        <item>Québec</item>
+        <item>Ontario</item>
+        <item>Alberta</item>
+    </string-array>
+    <string-array name="city_quebec">
+        <item>Montréal</item>
+        <item>Québec</item>
+        <item>Laval</item>
+    </string-array>
+    <string-array name="city_ontario">
+        <item>Ottawa</item>
+        <item>Toronto</item>
+        <item>Niagara Falls</item>
+    </string-array>
+    <string-array name="city_alberta">
+        <item>Calgary</item>
+        <item>Edmonton</item>
+        <item>Saint-Albert</item>
+    </string-array>
+</resources>
